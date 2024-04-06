@@ -1,0 +1,1 @@
+docker run -d -p 5002:5000 -v $(pwd)/msdir_streamer/:/home/bwmicroservice/msdir/ asergiobranco/blackwingmicroservice
